@@ -7,5 +7,6 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
 
 class Tableau extends Model
 {
-    protected $table = 'tableau';
+    protected $table = 'tableau_presenca';
+    // protected $table = 'tableau';
 }
